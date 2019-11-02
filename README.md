@@ -1,3 +1,3 @@
 # Face-And-Text-Recognition
 
-Description and examples coming soon.
+Notebooks and scripts image data processing, building, and testing machine learning models.
