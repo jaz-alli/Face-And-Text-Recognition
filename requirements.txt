@@ -1,5 +1,5 @@
 imutils==0.5.2
-numpy==1.14.6
+numpy==1.22.0
 argparse
 opencv-python==3.4.2.16
 pytesseract==0.2.6
